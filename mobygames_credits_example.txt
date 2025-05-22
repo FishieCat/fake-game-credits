@@ -1,0 +1,357 @@
+Shadowverse: Chronicles of the Fallen
+
+A Game by
+Petra van Chen
+
+Developed by Busybunny Ltd
+Game Design
+Lukas Walczak
+Marianna Rodriguez
+Niran Suksawat
+Jens Müller
+
+Producer
+Carla Müller
+
+Programming
+Igor Petrov
+Kaarel Mägi
+Manuel González
+Riko Adiputra
+Ariane Tremblay
+Satoru Yamada
+Victor Fernández
+Марина Павлова (Marina Pavlova)
+Davide Romano
+
+Art
+Guillermo García
+Patricia Uceda
+Анна Воробьева (Anna Vorobyova)
+Hiroshi Tanaka
+Andrei Ivanov
+
+Animation
+Mikael Johansson
+Anna Kovács
+Sari Wulandari
+Kanya Chaiyawan
+Raul Sánchez
+Pekka Nieminen
+
+Sound Design
+Юлия Смирнова (Yulia Smirnova)
+
+Published by
+Executive Producers
+Hassan Al-Farsi
+Chris Rohn
+張偉宏 (Zhang Weihong)
+
+Voiceover
+VO Director
+Sophie Morin
+
+Audio Engineer
+Erik Larsen, Jr
+
+Cast
+Aric the Warden	Carlos Herrera
+Lysandra, Nox	Emma Bauer
+Rebel Leader	Dmitri Petrov
+Thorne	Adele Marchand
+Johan Lindberg
+Guard #1, Guard #2, Guard #4, Guard #5, Guard #6, Guard #7	Sophie Morin
+Vala, Guard #3	James Lee
+Mysterious Seer	Raul Sánchez
+
+Soundtrack
+
+"Echoes of the Fallen"
+
+Composition
+Mikael Johansson
+Pekka Nieminen
+
+Vocals
+Adele Marchand
+Raul Sánchez
+
+"Shadows on the Horizon"
+
+Composition
+Anna Kovács
+Marco de la Peña
+Igor Petrov
+
+Vocals
+Sophie Morin
+Carla Müller
+
+"The Last Stand"
+
+Composition
+Lukas Walczak
+Hiroshi Tanaka
+
+Guitar
+James Lee
+
+Xylophone
+Li Wei
+
+Localization
+
+Localization Managers
+Петр Смирнов (Petr Smirnov)
+Takashi Fujiwara
+
+French
+Roberto Fernández
+Paweł Zieliński
+Erik Larsen
+Angelica Ramos
+朱凌云 (Zhu Lingyun)
+Rosario Pérez
+
+Spanish
+Carlos Herrera
+Emma Bauer
+Dmitri Petrov
+李思敏 (Li Simin)
+Johan Lindberg
+
+Chinese (Simplified)
+Amina Kamara
+Satoru Fukuda
+Fátima Rodríguez
+Олег Кузнецов (Oleg Kuznetsov)
+Nina Patel
+
+LQA
+Rafael Costa
+Sarangerel Tömörbaatar
+Adele Marchand
+
+
+Quality Assurance
+QA Lead
+Thiago Oliveira
+
+Testers
+
+Mikhail Malyshev
+Sophie Morin
+Anastasia Petrova
+James Lee
+Li Wei
+Alexander Karpov
+周建华 (Zhou Jianhua)
+
+Marketing & PR
+
+Marketing Lead
+Rachel Park
+
+Marketing
+Lina Svensson
+Sergio Aguirre
+Yulia Ponomareva
+André Da Silva
+
+Community Managers
+Ibrahim Al-Mansoori
+Xue Feng
+Jessica Hamilton
+Katarzyna Nowak
+塞西莉亚·张 (Cecilia Zhang)
+
+Special Thanks
+
+Our Biggest Fans
+Lucas Costa
+Veronika Dobrev
+Dario Orsini
+Anu Vaher
+林玲 (Lin Ling)
+Stefan Wolff
+
+Mentors
+Olivier Lefevre
+Tamas Barta
+Akira Nakamura
+赵珊珊 (Zhao Shanshan)
+Eduardo Ruiz
+Giuseppe Conte
+Liu Wei
+Anna Kaus
+Sören Richter
+Tobias Svensson
+
+Studio Pets
+Woof "whosagoodgirl" Jesslerey
+JackieTheCa-iMeanFish
+
+Proprietary Corp, Inc
+Legal
+Nathalie Dubois
+Xander Liu
+Katarina Buzova
+Baatar Ganbold
+Osman Aybar
+朱敏 (Zhu Min)
+
+Kicktreon Backers
+Alex Mercer
+Kira "Starblade"
+山本一郎
+Лена Смирнова
+ShadowFox89
+Diego "El Rápido"
+Fatima Al-Hussein
+Oleg К.
+Yūki Tanaka
+GhostWalker
+Надежда И.
+李小龍
+Jess "CrimsonHeart"
+Mikhail S.
+🐉DragonSoul🐉
+Sammy K.
+Aria "The Light"
+عمر النجار
+Valeriya Petrova
+Max "Vortex"
+진수 박
+TheJester13
+陈思雨
+Ǻnna
+Никита Кузьмин
+Reina "VenomStrike"
+Momo-chan
+Rafał Zawadzki
+زهرة
+AegisX
+Дмитрий
+Gaël Fortier
+龙少
+K-Dawg
+Мария Б.
+Stefan “ZeroHour”
+IcePhoenix77
+Oana P.
+吕晨阳
+Yasmine K.
+Андрей Литовченко
+Sasha_Midnight
+つばさ
+SkyRider
+Paul "Pulse"
+Юрий Г.
+Nocturne
+Natsuki ♡
+Валера
+Jørgen H.
+Tiamat
+Élodie “Stormwhirl”
+Pavel D.
+林志強
+Владислав
+BlazeKitten
+Reiko_Neko
+Omar Al-Zayed
+Ирина Л.
+Nightshade
+赵思涵
+R3ZN0
+Miloš B.
+Athena_Arrow
+樱井 美咲
+Marcus “Steelhand”
+王子轩
+Дмитрий "Wolf"
+Hyeon J.
+Magnus “Glacier”
+Izzy_The_Quiet
+グレン
+Евгения К.
+Zahra M.
+Dom “The Wall”
+João "Relâmpago"
+高翔宇
+Илья
+彤彤
+Viktor_Ace
+Lilit Ա.
+阮氏梅
+Soraya “Mirage”
+Kaspar V.
+小陳
+Aleksei R.
+Chiara “Moonbeam”
+سلطان الحارثي
+Dmitry Volkov
+星海
+Blaze98
+Kazuo M.
+Алексей
+Zoe “Whirlwind”
+Marwan K.
+秋山 蓮
+NekoSpells
+Igor_Sniper
+小林健太
+Ян Сидоров
+Bubblesaurus
+🦇NightBat🦇
+Юлия Н.
+Rami “Frostmind”
+Anna_Kawaii
+碧雲
+Ahmed_2099
+Olaf “The Rune”
+Лев Соколов
+星辰
+Yuki_Snowfall
+Марина "Foxpaw"
+KittyBoomBoom
+李婷婷
+Soulshaper
+Leif_H
+无名者
+Маша
+Tariq "Null"
+程志强
+アヤ
+Kseniya_B
+Hassan_Altair
+Leonid_Mirage
+蘇小夏
+Marigold
+Дарья В.
+サクラ
+Amina “Dusklight”
+Влад Воронцов
+Надежда “Echo”
+Imara
+Nikolai "Cipher"
+魏文涛
+Tasha “Bladepetal”
+龙影
+Ksenia
+ᛒrúnhildr
+Игорь
+Tomoe_Hime
+Сергей
+Renée "Cinders"
+Юнона
+CelestialKev
+Hassan
+Maria🌙
+FelixZeta
+小黃
+Vlad “Silvershard”
+Saeko.M
+Андрей
+Irina🌸
+Abdul-Rahman
