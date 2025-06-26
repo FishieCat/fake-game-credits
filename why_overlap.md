@@ -10,7 +10,7 @@ Looks like Guillermo García is the first programmer, doesn't it? Well, we can't
 
 If a video link is included, the approver now has to go check the video.
 
-If no video link is included, the approver would have to get hold of the game.
+If no video link is included, the approver would have to find a video of the credits. If none exists, they woud need to get hold of the game, hopefully being able to view credits from the menu.
 
 If we check the [fake example](https://fishiecat.github.io/fake-game-credits/) used as a basis here, we see that all programmers were skipped and now artists are getting credited as programmers.
 
